@@ -8,6 +8,6 @@ sudo apt install libxrandr-dev libxcursor-dev libudev-dev libfreetype-dev libope
 
 ```
 git clone https://github.com/Karan-Semwal/SFGame.git
-cmake -S . -B build -G "Unix Makefiles"
+cmake -S . -B build
 cmake --build build
 ```
